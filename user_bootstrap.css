@@ -1,0 +1,56 @@
+/*backgrouds*/
+._bg_primary {
+    background: #5920C5;
+}
+
+._bg_primary2 {
+    background: rgb(74, 31, 158) !important;
+}
+
+._bg_primary_light {
+    background: #EFE9FB;
+}
+
+._bg_success {
+    background: #44CB86;
+}
+
+._bg_dark {
+    background: #141323;
+}
+
+._bg_dark_light {
+    background: #0E0C23;
+}
+
+._bg_light {
+    background: #F6F7FB;
+}
+
+/*text*/
+
+._text_primary {
+    color: #703BD9;
+}
+
+/*outline*/
+
+._outline_success {
+    outline-color: #44CB86;
+}
+
+/*custom layout*/
+._container {
+    width: 80%;
+    margin: auto;
+    padding: 5px;
+}
+
+._cursor_pointer {
+    cursor: pointer;
+}
+
+/*overite existing btns*/
+.btn-success {
+    background: #108e4f;
+}
